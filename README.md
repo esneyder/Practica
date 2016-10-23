@@ -1,1 +1,3 @@
-C:\Users\Developer\Documents\Visual Studio 2015\Projects\Practica
+![alt tag](localdb.png)
+![alt tag](persona.png)
+![alt tag](trabajador.png)
